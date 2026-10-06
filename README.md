@@ -4,7 +4,6 @@
 * **Nama** : M. Fairuz Firerza Aliushami
 * **NIM** : 2609116062
 * **Kelas** : B
-* **Topik** : Studi Kasus 5 (Manajemen Inventaris Toko)
 
 ---
 
