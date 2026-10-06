@@ -1,0 +1,32 @@
+[
+    {
+        "kode": "BRG001",
+        "nama": "Beras 5kg",
+        "stok": 30,
+        "harga": 65000
+    },
+    {
+        "kode": "BRG002",
+        "nama": "Minyak Goreng 1L",
+        "stok": 15,
+        "harga": 18000
+    },
+    {
+        "kode": "BRG003",
+        "nama": "Milkita",
+        "stok": 20,
+        "harga": 8000
+    },
+    {
+        "kode": "BRG004",
+        "nama": "TEH PUCUK",
+        "stok": 10,
+        "harga": 5000
+    },
+    {
+        "kode": "BRG006",
+        "nama": "Garam",
+        "stok": 10,
+        "harga": 5000
+    }
+]
