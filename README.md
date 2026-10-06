@@ -125,13 +125,3 @@ Fungsi ini mencari barang berdasarkan kode yang dimasukkan, lalu meminta konfirm
 Fungsi utama yang menjalankan perulangan *loop* menu interaktif (1-6). Mengarahkan pilihan pengguna ke fungsi yang sesuai dan menangani validasi menu yang tidak valid.
 
 ---
-
-## Cara Menjalankan Program
-1. Pastikan pustaka `prettytable` sudah terinstal:
-   ```bash
-   pip install prettytable
-   ```
-2. Jalankan program:
-   ```bash
-   python index.py
-   ```
