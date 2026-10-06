@@ -1,4 +1,4 @@
-# Studi Kasus 5 - Sistem Manajemen Inventaris Barang
+# Studi Kasus 6 - Sistem Manajemen Inventaris Barang
 
 ## Biodata Mahasiswa
 * **Nama** : M. Fairuz Firerza Aliushami
